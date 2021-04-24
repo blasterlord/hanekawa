@@ -1,3 +1,9 @@
+# Index files
+index/
+
+# Max's txt files
+content/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
